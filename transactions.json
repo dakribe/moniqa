@@ -1,0 +1,1096 @@
+{
+  "transactions": [
+    {
+      "month": "January 2024",
+      "income": [
+        {
+          "date": "2024-01-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-01-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-01-03",
+          "description": "Electric Bill",
+          "amount": -85,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-01-05",
+          "description": "Grocery Store",
+          "amount": -120,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-01-08",
+          "description": "Starbucks",
+          "amount": -6.75,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-01-10",
+          "description": "Gas Station",
+          "amount": -45,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-01-12",
+          "description": "DoorDash",
+          "amount": -28.5,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-01-15",
+          "description": "Car Insurance",
+          "amount": -150,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-01-18",
+          "description": "Netflix",
+          "amount": -15.99,
+          "category": "Entertainment"
+        },
+        {
+          "date": "2024-01-20",
+          "description": "Grocery Store",
+          "amount": -95,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-01-22",
+          "description": "Coffee Shop",
+          "amount": -4.25,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-01-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-01-28",
+          "description": "Uber Eats",
+          "amount": -32.8,
+          "category": "Food & Dining"
+        }
+      ]
+    },
+    {
+      "month": "February 2024",
+      "income": [
+        {
+          "date": "2024-02-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-02-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-02-02",
+          "description": "Electric Bill",
+          "amount": -78,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-02-04",
+          "description": "Grocery Store",
+          "amount": -135,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-02-07",
+          "description": "Starbucks",
+          "amount": -7.5,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-02-10",
+          "description": "Gas Station",
+          "amount": -42,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-02-14",
+          "description": "Valentine's Dinner",
+          "amount": -85,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-02-16",
+          "description": "Health Insurance",
+          "amount": -280,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-02-18",
+          "description": "Spotify",
+          "amount": -9.99,
+          "category": "Entertainment"
+        },
+        {
+          "date": "2024-02-20",
+          "description": "Grocery Store",
+          "amount": -88,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-02-22",
+          "description": "DoorDash",
+          "amount": -24.75,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-02-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-02-28",
+          "description": "Movie Theater",
+          "amount": -18.5,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "month": "March 2024",
+      "income": [
+        {
+          "date": "2024-03-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-03-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-03-03",
+          "description": "Electric Bill",
+          "amount": -72,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-03-05",
+          "description": "Grocery Store",
+          "amount": -110,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-03-08",
+          "description": "Coffee Shop",
+          "amount": -5.25,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-03-12",
+          "description": "Gas Station",
+          "amount": -48,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-03-15",
+          "description": "Car Insurance",
+          "amount": -150,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-03-18",
+          "description": "Grocery Store",
+          "amount": -125,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-03-20",
+          "description": "Uber Eats",
+          "amount": -31.25,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-03-22",
+          "description": "Gym Membership",
+          "amount": -45,
+          "category": "Health & Fitness"
+        },
+        {
+          "date": "2024-03-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-03-28",
+          "description": "Clothing Store",
+          "amount": -89.99,
+          "category": "Shopping"
+        },
+        {
+          "date": "2024-03-30",
+          "description": "DoorDash",
+          "amount": -26.8,
+          "category": "Food & Dining"
+        }
+      ]
+    },
+    {
+      "month": "April 2024",
+      "income": [
+        {
+          "date": "2024-04-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-04-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-04-02",
+          "description": "Electric Bill",
+          "amount": -68,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-04-05",
+          "description": "Grocery Store",
+          "amount": -118,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-04-08",
+          "description": "Starbucks",
+          "amount": -6.25,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-04-10",
+          "description": "Gas Station",
+          "amount": -44,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-04-12",
+          "description": "Amazon Purchase",
+          "amount": -67.43,
+          "category": "Shopping"
+        },
+        {
+          "date": "2024-04-15",
+          "description": "Phone Bill",
+          "amount": -85,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-04-16",
+          "description": "Health Insurance",
+          "amount": -280,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-04-18",
+          "description": "Grocery Store",
+          "amount": -103,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-04-20",
+          "description": "Coffee Shop",
+          "amount": -4.75,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-04-22",
+          "description": "DoorDash",
+          "amount": -29.5,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-04-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-04-28",
+          "description": "Date Night",
+          "amount": -75,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "month": "May 2024",
+      "income": [
+        {
+          "date": "2024-05-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-05-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-05-03",
+          "description": "Electric Bill",
+          "amount": -89,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-05-06",
+          "description": "Grocery Store",
+          "amount": -142,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-05-08",
+          "description": "Coffee Shop",
+          "amount": -5.5,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-05-10",
+          "description": "Gas Station",
+          "amount": -46,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-05-12",
+          "description": "Mother's Day Gift",
+          "amount": -125,
+          "category": "Shopping"
+        },
+        {
+          "date": "2024-05-15",
+          "description": "Car Insurance",
+          "amount": -150,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-05-18",
+          "description": "Grocery Store",
+          "amount": -95,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-05-20",
+          "description": "Uber Eats",
+          "amount": -33.75,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-05-22",
+          "description": "Gym Membership",
+          "amount": -45,
+          "category": "Health & Fitness"
+        },
+        {
+          "date": "2024-05-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-05-27",
+          "description": "Memorial Day BBQ",
+          "amount": -58,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-05-30",
+          "description": "DoorDash",
+          "amount": -27.25,
+          "category": "Food & Dining"
+        }
+      ]
+    },
+    {
+      "month": "June 2024",
+      "income": [
+        {
+          "date": "2024-06-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-06-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-06-03",
+          "description": "Electric Bill",
+          "amount": -115,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-06-05",
+          "description": "Grocery Store",
+          "amount": -128,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-06-08",
+          "description": "Starbucks",
+          "amount": -7.25,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-06-10",
+          "description": "Gas Station",
+          "amount": -52,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-06-12",
+          "description": "Summer Clothes",
+          "amount": -156,
+          "category": "Shopping"
+        },
+        {
+          "date": "2024-06-15",
+          "description": "Phone Bill",
+          "amount": -85,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-06-16",
+          "description": "Health Insurance",
+          "amount": -280,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-06-18",
+          "description": "Grocery Store",
+          "amount": -112,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-06-20",
+          "description": "Coffee Shop",
+          "amount": -4.5,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-06-22",
+          "description": "DoorDash",
+          "amount": -31.8,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-06-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-06-28",
+          "description": "Concert Tickets",
+          "amount": -95,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "month": "July 2024",
+      "income": [
+        {
+          "date": "2024-07-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-07-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-07-03",
+          "description": "Electric Bill",
+          "amount": -132,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-07-04",
+          "description": "July 4th Party Supplies",
+          "amount": -67,
+          "category": "Entertainment"
+        },
+        {
+          "date": "2024-07-06",
+          "description": "Grocery Store",
+          "amount": -145,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-07-08",
+          "description": "Coffee Shop",
+          "amount": -6.75,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-07-10",
+          "description": "Gas Station",
+          "amount": -49,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-07-15",
+          "description": "Car Insurance",
+          "amount": -150,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-07-18",
+          "description": "Grocery Store",
+          "amount": -108,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-07-20",
+          "description": "Uber Eats",
+          "amount": -28.5,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-07-22",
+          "description": "Gym Membership",
+          "amount": -45,
+          "category": "Health & Fitness"
+        },
+        {
+          "date": "2024-07-24",
+          "description": "Vacation Flight",
+          "amount": -385,
+          "category": "Travel"
+        },
+        {
+          "date": "2024-07-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-07-28",
+          "description": "DoorDash",
+          "amount": -34.25,
+          "category": "Food & Dining"
+        }
+      ]
+    },
+    {
+      "month": "August 2024",
+      "income": [
+        {
+          "date": "2024-08-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-08-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-08-02",
+          "description": "Electric Bill",
+          "amount": -145,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-08-05",
+          "description": "Grocery Store",
+          "amount": -135,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-08-07",
+          "description": "Vacation Hotel",
+          "amount": -280,
+          "category": "Travel"
+        },
+        {
+          "date": "2024-08-08",
+          "description": "Vacation Meals",
+          "amount": -165,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-08-10",
+          "description": "Gas Station",
+          "amount": -55,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-08-15",
+          "description": "Phone Bill",
+          "amount": -85,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-08-16",
+          "description": "Health Insurance",
+          "amount": -280,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-08-18",
+          "description": "Grocery Store",
+          "amount": -98,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-08-20",
+          "description": "Coffee Shop",
+          "amount": -5.25,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-08-22",
+          "description": "DoorDash",
+          "amount": -29.75,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-08-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-08-28",
+          "description": "Back to School Shopping",
+          "amount": -125,
+          "category": "Shopping"
+        }
+      ]
+    },
+    {
+      "month": "September 2024",
+      "income": [
+        {
+          "date": "2024-09-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-09-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-09-03",
+          "description": "Electric Bill",
+          "amount": -118,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-09-05",
+          "description": "Grocery Store",
+          "amount": -122,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-09-08",
+          "description": "Starbucks",
+          "amount": -6.5,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-09-10",
+          "description": "Gas Station",
+          "amount": -47,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-09-12",
+          "description": "Amazon Purchase",
+          "amount": -89.99,
+          "category": "Shopping"
+        },
+        {
+          "date": "2024-09-15",
+          "description": "Car Insurance",
+          "amount": -150,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-09-18",
+          "description": "Grocery Store",
+          "amount": -115,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-09-20",
+          "description": "Coffee Shop",
+          "amount": -4.75,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-09-22",
+          "description": "Gym Membership",
+          "amount": -45,
+          "category": "Health & Fitness"
+        },
+        {
+          "date": "2024-09-24",
+          "description": "Uber Eats",
+          "amount": -26.5,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-09-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-09-28",
+          "description": "Movie Night",
+          "amount": -35,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "month": "October 2024",
+      "income": [
+        {
+          "date": "2024-10-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-10-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-10-02",
+          "description": "Electric Bill",
+          "amount": -95,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-10-05",
+          "description": "Grocery Store",
+          "amount": -138,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-10-08",
+          "description": "Coffee Shop",
+          "amount": -5.75,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-10-10",
+          "description": "Gas Station",
+          "amount": -43,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-10-15",
+          "description": "Phone Bill",
+          "amount": -85,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-10-16",
+          "description": "Health Insurance",
+          "amount": -280,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-10-18",
+          "description": "Grocery Store",
+          "amount": -106,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-10-20",
+          "description": "Halloween Costume",
+          "amount": -45,
+          "category": "Shopping"
+        },
+        {
+          "date": "2024-10-22",
+          "description": "DoorDash",
+          "amount": -32.25,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-10-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-10-28",
+          "description": "Pumpkin Patch",
+          "amount": -28,
+          "category": "Entertainment"
+        },
+        {
+          "date": "2024-10-31",
+          "description": "Halloween Party",
+          "amount": -67,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "month": "November 2024",
+      "income": [
+        {
+          "date": "2024-11-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-11-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-11-03",
+          "description": "Electric Bill",
+          "amount": -88,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-11-05",
+          "description": "Grocery Store",
+          "amount": -145,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-11-08",
+          "description": "Starbucks",
+          "amount": -7.25,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-11-10",
+          "description": "Gas Station",
+          "amount": -41,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-11-15",
+          "description": "Car Insurance",
+          "amount": -150,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-11-18",
+          "description": "Grocery Store",
+          "amount": -118,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-11-20",
+          "description": "Coffee Shop",
+          "amount": -4.25,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-11-22",
+          "description": "Gym Membership",
+          "amount": -45,
+          "category": "Health & Fitness"
+        },
+        {
+          "date": "2024-11-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-11-26",
+          "description": "Thanksgiving Groceries",
+          "amount": -89,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-11-29",
+          "description": "Black Friday Shopping",
+          "amount": -245,
+          "category": "Shopping"
+        },
+        {
+          "date": "2024-11-30",
+          "description": "DoorDash",
+          "amount": -24.75,
+          "category": "Food & Dining"
+        }
+      ]
+    },
+    {
+      "month": "December 2024",
+      "income": [
+        {
+          "date": "2024-12-15",
+          "description": "Salary Deposit",
+          "amount": 5200,
+          "category": "Income"
+        }
+      ],
+      "expenses": [
+        {
+          "date": "2024-12-01",
+          "description": "Rent Payment",
+          "amount": -1800,
+          "category": "Housing"
+        },
+        {
+          "date": "2024-12-03",
+          "description": "Electric Bill",
+          "amount": -105,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-12-05",
+          "description": "Grocery Store",
+          "amount": -152,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-12-08",
+          "description": "Holiday Decorations",
+          "amount": -78,
+          "category": "Shopping"
+        },
+        {
+          "date": "2024-12-10",
+          "description": "Gas Station",
+          "amount": -46,
+          "category": "Transportation"
+        },
+        {
+          "date": "2024-12-12",
+          "description": "Christmas Gifts",
+          "amount": -350,
+          "category": "Shopping"
+        },
+        {
+          "date": "2024-12-15",
+          "description": "Phone Bill",
+          "amount": -85,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-12-16",
+          "description": "Health Insurance",
+          "amount": -280,
+          "category": "Insurance"
+        },
+        {
+          "date": "2024-12-18",
+          "description": "Grocery Store",
+          "amount": -125,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-12-20",
+          "description": "Coffee Shop",
+          "amount": -6.5,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-12-22",
+          "description": "Gym Membership",
+          "amount": -45,
+          "category": "Health & Fitness"
+        },
+        {
+          "date": "2024-12-23",
+          "description": "Holiday Party Dinner",
+          "amount": -95,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-12-24",
+          "description": "Last Minute Gifts",
+          "amount": -125,
+          "category": "Shopping"
+        },
+        {
+          "date": "2024-12-25",
+          "description": "Internet Bill",
+          "amount": -65,
+          "category": "Utilities"
+        },
+        {
+          "date": "2024-12-28",
+          "description": "DoorDash",
+          "amount": -28.75,
+          "category": "Food & Dining"
+        },
+        {
+          "date": "2024-12-31",
+          "description": "New Year's Eve",
+          "amount": -85,
+          "category": "Entertainment"
+        }
+      ]
+    }
+  ]
+}
