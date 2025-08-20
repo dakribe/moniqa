@@ -93,7 +93,32 @@ const MessagePart = memo(({ part, messageId, partIndex, isLastMessage, isStreami
 
 	if (part.type === "text") {
 		const parsed = parseMessageContent(part.text);
-		console.log("Parsed message:", { type: parsed.type, content: part.text.substring(0, 200) });
+
+		// If we're streaming and detect JSX but it's not complete, show loading
+		const isStreamingIncompleteJsx = isStreaming && isLastMessage && (
+			part.text.includes("<ResponsiveContainer") ||
+			part.text.includes("<BarChart") ||
+			part.text.includes("<LineChart") ||
+			part.text.includes("<PieChart") ||
+			part.text.includes("```jsx")
+		) && parsed.type === "text";
+
+
+
+		if (isStreamingIncompleteJsx) {
+			return (
+				<div key={`${messageId}-${partIndex}`} className="space-y-4">
+					<div className="border rounded-lg p-4">
+						<div className="flex items-center justify-center py-8">
+							<div className="flex items-center space-x-2">
+								<div className="animate-spin rounded-full h-4 w-4 border-b-2 border-blue-600"></div>
+								<span className="text-sm text-gray-600">Generating chart...</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			);
+		}
 
 		if (parsed.type === "jsx") {
 			return (
@@ -137,7 +162,7 @@ export function PromptInputBasic() {
 
 	return (
 		<div className="flex flex-col w-full max-w-4xl py-24 mx-auto stretch">
-			{messages.map((message) => (
+			{messages.map((message, messageIndex) => (
 				<div key={message.id} className="mb-4">
 					<div className="font-semibold mb-2">
 						{message.role === "user" ? "You: " : "AI: "}
@@ -148,7 +173,7 @@ export function PromptInputBasic() {
 							part={part}
 							messageId={message.id}
 							partIndex={i}
-							isLastMessage={message.id === messages[messages.length - 1]?.id}
+							isLastMessage={messageIndex === messages.length - 1}
 							isStreaming={status === 'streaming'}
 						/>
 					))}
