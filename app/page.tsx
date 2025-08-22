@@ -1,4 +1,5 @@
 import { PromptInputBasic } from "@/components/PromptInput";
+import { WelcomeDialog } from "@/components/WelcomeDialog";
 
 export default function Home() {
 	return (
@@ -9,6 +10,7 @@ export default function Home() {
 					<PromptInputBasic />
 				</div>
 			</div>
+			<WelcomeDialog />
 		</div>
 	);
 }
