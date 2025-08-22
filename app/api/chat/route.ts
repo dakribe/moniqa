@@ -77,14 +77,10 @@ NON-CHART COMPONENT EXAMPLE:
   </div>
 </div>
 
-Always start with: "Response format: [TEXT|JSX] - [reasoning]"
-
 When returning JSX, wrap it in a jsx code block with triple backticks.
 FINANCIAL DATA AVAILABLE:
 You have access to the following transaction data for analysis:
-${JSON.stringify(transactions, null, 2)}
-
-Always start your response by briefly explaining your reasoning for the format chosen.`;
+${JSON.stringify(transactions, null, 2)}`;
 
 export async function POST(req: Request) {
 	const { messages }: { messages: UIMessage[] } = await req.json();
